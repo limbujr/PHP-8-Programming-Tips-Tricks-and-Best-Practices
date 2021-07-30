@@ -55,7 +55,7 @@ With the following software and hardware list you can run all code files present
 |  	1-13	   |   	PHP 8.x , Key PHP extensions , Docker and docker-compose 						                                            			  | Windows, Mac OS X, and Linux (Any) |
 |          |   		
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](#).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://1drv.ms/b/s!AiKPeSPqocF4gfRA-jCcRs8-X7F_gA?e=cTeRX2).
 
 ### Related products <Other books you may enjoy>
 * The Python Workshop [[Packt]](https://www.packtpub.com/product/the-python-workshop/9781839218859) [[Amazon]](https://www.amazon.in/Python-Workshop-Interactive-Approach-Learning-ebook/dp/B0816C5R6Y/ref=sr_1_1?dchild=1&keywords=The+Python+Workshop&qid=1627652028&sr=8-1)
