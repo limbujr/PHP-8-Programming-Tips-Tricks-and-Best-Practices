@@ -58,9 +58,12 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](#).
 
 ### Related products <Other books you may enjoy>
-//* <Book name #1 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* The Python Workshop [[Packt]](https://www.packtpub.com/product/the-python-workshop/9781839218859) [[Amazon]](https://www.amazon.in/Python-Workshop-Interactive-Approach-Learning-ebook/dp/B0816C5R6Y/ref=sr_1_1?dchild=1&keywords=The+Python+Workshop&qid=1627652028&sr=8-1)
 
-//* <Book name #2 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* The Complete Python Course [Video] [[Packt]](https://www.packtpub.com/product/the-complete-python-course-video/9781839217289)
+ 
+* Learn Python Programming - Second Edition [[Packt]](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662) [[Amazon]](https://www.amazon.in/Learn-Python-Programming-no-nonsense-programming/dp/1788996666/ref=sr_1_3?dchild=1&keywords=Learn+Python+Programming+-+Second+Edition&qid=1627652309&sr=8-3)
+* Deep Reinforcement Learning with Python - Second Edition	 [[Packt]](https://www.packtpub.com/product/deep-reinforcement-learning-with-python-second-edition/9781839210686) [[Amazon]](https://www.amazon.in/Deep-Reinforcement-Learning-Python-distributional-ebook/dp/B08HSHV72N/ref=sr_1_1?dchild=1&keywords=Deep+Reinforcement+Learning+with+Python+-+Second+Edition&qid=1627652422&sr=8-1)
   
   
 ## Get to Know the Author
