@@ -1,6 +1,8 @@
 # PHP 8 Programming Tips, Tricks and Best Practices
 
-This is the code repository for [PHP 8 Programming Tips, Tricks and Best Practices](#), published by Packt.
+<a href="https://www.packtpub.com/product/php-8-programming-tips-tricks-and-best-practices/9781801071871"><img src="https://static.packt-cdn.com/products/9781801071871/cover/smaller" alt="PHP 8 Programming Tips, Tricks and Best Practices" height="256px" align="right"></a>
+
+This is the code repository for [PHP 8 Programming Tips, Tricks and Best Practices](https://www.packtpub.com/product/php-8-programming-tips-tricks-and-best-practices/9781801071871), published by Packt.
 
 **A practical guide to PHP 8 features, usage changes, and advanced programming techniques**
 
@@ -22,7 +24,9 @@ This book covers the following exciting features:
 * Find out which features have been deprecated and/or removed in PHP 8
 * Become well-versed with programming best practices enforced by PHP 8
 
-If you feel this book is for you, get your [copy](#) today!
+If you feel this book is for you, get your [copy](https://www.amazon.in/Programming-Tips-Tricks-Best-Practices-ebook/dp/B0964DS7KN/ref=sr_1_1?dchild=1&keywords=PHP+8+Programming+Tips%2C+Tricks+and+Best+Practices&qid=1627653387&sr=8-1) today!
+
+<a href="https://www.packtpub.com/product/php-8-programming-tips-tricks-and-best-practices/9781801071871"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders.
@@ -55,15 +59,14 @@ With the following software and hardware list you can run all code files present
 |  	1-13	   |   	PHP 8.x , Key PHP extensions , Docker and docker-compose 						                                            			  | Windows, Mac OS X, and Linux (Any) |
 |          |   		
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://drive.google.com/file/d/1c-HBsKdpFqhbnkPrI9TYgMwD0UZhkeLh/view?usp=sharing).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801071871_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
-* The Python Workshop [[Packt]](https://www.packtpub.com/product/the-python-workshop/9781839218859) [[Amazon]](https://www.amazon.in/Python-Workshop-Interactive-Approach-Learning-ebook/dp/B0816C5R6Y/ref=sr_1_1?dchild=1&keywords=The+Python+Workshop&qid=1627652028&sr=8-1)
+* The Art of Micro Frontends [[Packt]](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568) [[Amazon]](https://www.amazon.in/Art-Micro-Frontends-compositional-application/dp/1800563566/ref=sr_1_1?dchild=1&keywords=The+Art+of+Micro+Frontends&qid=1627654123&sr=8-1)
 
-* The Complete Python Course [Video] [[Packt]](https://www.packtpub.com/product/the-complete-python-course-video/9781839217289)
+* Responsive Web Design with HTML5 and CSS - Third Edition [[Packt]](https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781839211560) [[Amazon]](https://www.amazon.in/Responsive-Web-Design-HTML5-CSS/dp/1839211563/ref=sr_1_1?dchild=1&keywords=Responsive+Web+Design+with+HTML5+and+CSS+-+Third+Edition&qid=1627654232&sr=8-1)
  
-* Learn Python Programming - Second Edition [[Packt]](https://www.packtpub.com/free-ebook/learn-python-programming-second-edition/9781788996662) [[Amazon]](https://www.amazon.in/Learn-Python-Programming-no-nonsense-programming/dp/1788996666/ref=sr_1_3?dchild=1&keywords=Learn+Python+Programming+-+Second+Edition&qid=1627652309&sr=8-3)
-* Deep Reinforcement Learning with Python - Second Edition	 [[Packt]](https://www.packtpub.com/product/deep-reinforcement-learning-with-python-second-edition/9781839210686) [[Amazon]](https://www.amazon.in/Deep-Reinforcement-Learning-Python-distributional-ebook/dp/B08HSHV72N/ref=sr_1_1?dchild=1&keywords=Deep+Reinforcement+Learning+with+Python+-+Second+Edition&qid=1627652422&sr=8-1)
+
   
   
 ## Get to Know the Author
